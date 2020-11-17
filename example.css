@@ -1,0 +1,60 @@
+body{
+	margin: 0px;
+}
+
+#container{
+	text-align: center;
+	font-family: Karla;
+	font-size: 200px;
+	letter-spacing: -20px;
+	margin: 0px;
+}
+
+
+.fruit {
+	width: 100%;
+}
+
+
+.button_style {
+	border: 3px dotted black;
+	border-radius: 60px;
+}
+
+.idle{
+	z-index: 99;
+	position: absolute;
+	left:0px;
+	top: 0px;
+}
+
+
+#apple{
+	color:#fc5300;
+}
+
+#banana{
+	color:#ffde00;
+}
+#grape{
+	color:#6c00cc;
+}
+
+#lettuce{
+	color:#00582b;
+}
+
+#potato{
+	color:#4d2f33;
+}
+
+#carrot{
+	color:#f58614;
+}
+#garlic{
+	color:#efdbff;
+}
+
+#celery{
+	color:#2b9315
+}
